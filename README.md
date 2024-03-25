@@ -1,4 +1,4 @@
-# FARSIGHT Portfolio Overview
+# LOOT RUNNERS Portfolio Overview
 
 This is a portfolio overview for **LOOT RUNNERS**, this was my first Roblox game developed as part of my game development journey. This document serves as a reflection on the project and showcases the skills and technologies I employed during development.
 
