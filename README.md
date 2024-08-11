@@ -287,3 +287,7 @@ This preview section contains images, GIFs, and possible sound fragments from th
 ![showcase](https://github.com/TRSTN4/LOOT_RUNNERS/blob/main/preview/tasks/weight_limit/showcase.png?raw=true)
 
 ![LR_TASK_WEIGHT_LIMIT](https://github.com/TRSTN4/LOOT_RUNNERS/blob/main/preview/tasks/weight_limit/LR_TASK_WEIGHT_LIMIT.gif?raw=true)
+
+## Gameplay
+
+***Youtube:*** [Loot Runners Gameplay](https://youtu.be/T_Ynp9jm9e4)
